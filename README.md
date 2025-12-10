@@ -1,4 +1,4 @@
-## Hi there 👋
+## 15 y/o Dev | 💻 Svelte, JS, TS, Python, Java, Kotlin, C++, C# | 🐳 Docker | 🔧 Git & CLI | mods & web apps
 
 <!--
 **denys-shatin/denys-shatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
